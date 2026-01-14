@@ -1,0 +1,8 @@
+[project]
+name = "burmese-py"
+version = "0.1.0"
+description = "Python backend framework with a powerfull cli"
+dependencies = ["typer"]
+
+[project.scripts]
+bm = "framework.cli.main:app"
