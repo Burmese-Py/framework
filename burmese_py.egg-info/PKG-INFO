@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: burmese-py
+Version: 0.1.0
+Summary: Python backend framework with a powerfull cli
+License-File: LICENSE
+Requires-Dist: typer
+Dynamic: license-file
