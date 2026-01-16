@@ -5,4 +5,4 @@ description = "Python backend framework with a powerfull cli"
 dependencies = ["typer"]
 
 [project.scripts]
-bm = "framework.cli.cli:main"
+bm = "framework.cli.commands:app"

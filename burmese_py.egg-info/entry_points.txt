@@ -1,2 +1,2 @@
 [console_scripts]
-bm = framework.cli.cli:main
+bm = framework.cli.commands:app

@@ -3,4 +3,4 @@ from datetime import datetime
 
 class User(BaseModel):
   id: int
-  created_at: datetime
+  created_at: datetime = datetime.now().isoformat()

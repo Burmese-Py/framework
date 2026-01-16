@@ -7,12 +7,10 @@ burmese_py.egg-info/entry_points.txt
 burmese_py.egg-info/requires.txt
 burmese_py.egg-info/top_level.txt
 framework/__init__.py
-framework/model.py
-framework/user.py
 framework/cli/__init__.py
-framework/cli/cli.py
+framework/cli/commands.py
 framework/core/__init__.py
+framework/core/settings.py
+framework/core/builder/__init__.py
+framework/core/builder/builder.py
 framework/templates/__init__.py
-framework/templates/generator/__init__.py
-framework/templates/generator/runner.py
-framework/templates/generator/models/__init__.py
